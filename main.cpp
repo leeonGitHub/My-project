@@ -4,4 +4,4 @@ var promice = require('promice');
 var another = another('kind a refactor');
 //line 5
 // line 6
-//line7
+//line8
